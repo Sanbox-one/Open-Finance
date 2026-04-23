@@ -1,4 +1,4 @@
-# **Open-Finance**
+# **Something**
 Atvidade de Analise desenvolvimento de sistema,  onde terei que fazer que permita calcular um score de crédito alternativo para trabalhadores informais.
 
 ## Visão geral
